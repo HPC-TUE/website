@@ -2,24 +2,24 @@ authors:
   "a.c.m.bertens@tue.nl":
     name: Bertens, Guus
     description: Quantum Computing / Cluster Administrator
-    avatar: "/assets/images/avatars/a.c.m.bertens.webp"
+    avatar: "../../../../../assets/images/avatars/a.c.m.bertens.webp"
   "j.h.m.verbiesen@tue.nl":
     name: Verbiesen, Han
     description: Service Manager
-    avatar: "/assets/images/avatars/j.h.m.verbiesen.webp"
+    avatar: "../../../../../assets/images/avatars/j.h.m.verbiesen.webp"
   "a.van.hoof@tue.nl":
     name: Hoof, Alain van
     description: Cluster Administrator
-    avatar: "/assets/images/avatars/a.van.hoof.webp"
+    avatar: "../../../../../assets/images/avatars/a.van.hoof.webp"
   "e.loomeijer@tue.nl":
     name: Loomeijer, Emily
     description: Cluster Administrator
-    avatar: "/assets/images/avatars/e.loomeijer.webp"
+    avatar: "../../../../../assets/images/avatars/e.loomeijer.webp"
   "r.j.zoontjens@tue.nl":
     name: Zoontjens, Richard
     description: HPC & AI Lead
-    avatar: "/assets/images/avatars/r.j.zoontjens.webp"
+    avatar: "../../../../../assets/images/avatars/r.j.zoontjens.webp"
   "r.kotian@tue.nl":
     name: Kotian, Roshan
     description: ML/AI application specialist
-    avatar: "/assets/images/avatars/r.kotian.webp"
+    avatar: "../../../../../assets/images/avatars/r.kotian.webp"
